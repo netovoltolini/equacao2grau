@@ -1,0 +1,10 @@
+C:\Users\USUARIO\Desktop\Equacao2grau\Equacao2grau\bin\Debug\Equacao2grau.exe.config
+C:\Users\USUARIO\Desktop\Equacao2grau\Equacao2grau\bin\Debug\Equacao2grau.exe
+C:\Users\USUARIO\Desktop\Equacao2grau\Equacao2grau\bin\Debug\Equacao2grau.pdb
+C:\Users\USUARIO\Desktop\Equacao2grau\Equacao2grau\obj\Debug\Equacao2grau.csprojAssemblyReference.cache
+C:\Users\USUARIO\Desktop\Equacao2grau\Equacao2grau\obj\Debug\Equacao2grau.frmbaskara.resources
+C:\Users\USUARIO\Desktop\Equacao2grau\Equacao2grau\obj\Debug\Equacao2grau.Properties.Resources.resources
+C:\Users\USUARIO\Desktop\Equacao2grau\Equacao2grau\obj\Debug\Equacao2grau.csproj.GenerateResource.cache
+C:\Users\USUARIO\Desktop\Equacao2grau\Equacao2grau\obj\Debug\Equacao2grau.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\Desktop\Equacao2grau\Equacao2grau\obj\Debug\Equacao2grau.exe
+C:\Users\USUARIO\Desktop\Equacao2grau\Equacao2grau\obj\Debug\Equacao2grau.pdb
